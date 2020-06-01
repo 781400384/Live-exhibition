@@ -1,0 +1,12 @@
+{
+"applinks": {
+        "apps": [],
+        "details": [
+            {
+                "appID": "64Y6V72F97.com.zhanbo.phonelive",
+                "paths": ["/phonelive/*","/qq_conn/1109318150/"]
+            }
+           
+        ]
+    }
+}

@@ -1,0 +1,51 @@
+//
+//  Prefix.pch
+//  PlayFootBall
+//
+//  Created by 纪明 on 2019/12/7.
+//  Copyright © 2019 纪明. All rights reserved.
+//
+
+#ifndef Prefix_pch
+#define Prefix_pch
+
+#import "Macros.h"
+#import "YYKit.h"
+#import "Masonry.h"
+#import "MJExtension.h"
+#import "MJRefresh.h"
+#import "APIConfig.h"
+#import "NSString+HWExt.h"
+#import "UIAlertView+HWExt.h"
+#import "UIButton+HWExt.h"
+#import "UIColor+HWExt.h"
+#import "UIColor+Tools.h"
+#import "UIControl+Block.h"
+#import "UIImage+HWExt.h"
+#import "UIView+HWExt.h"
+#import "UIImageView+WebCache.h"
+#import "NaviView.h"
+#import "BaseViewController.h"
+#import "BaseNavigationViewController.h"
+#import "BaseTableView.h"
+#import "Const.h"
+#import "HttpTools.h"
+#import "APIConfig.h"
+#import "NSString+string.h"
+//#import <WechatOpenSDK/WXApi.h>
+#import "UserInfoDefaults.h"
+#import <SDCycleScrollView/SDCycleScrollView.h>
+#import "UILabelSet.h"
+#import "NSAttributedString+Extension.h"
+#import <RongIMKit/RongIMKit.h>
+#import "TXLiteAVSDK.h"
+#import "ZMColorDefine.h"
+#import "UIView+QJLayout.h"
+#import <ShareSDK/ShareSDK.h>
+#import <AlivcLivePusher/AlivcLivePusherHeader.h>
+#import "JPUSHService.h"
+#import "LandScreenTool.h"
+#import "MBProgressHUD.h"
+#import "LDImagePicker.h"
+#import <QiniuSDK.h>
+#endif /* Prefix_pch */
